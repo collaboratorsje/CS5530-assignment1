@@ -1,0 +1,8 @@
+gender - female or male
+race/ethnicity - group A,B,C,D
+parental level of education - some high school, high school, some college, associate's degree, bachelor's degree, master's degree
+lunch - standard, free/reduced 
+test preparation course - none, completed
+math score - number (0-100) could be percentile or raw score
+reading score - number (0-100) could be percentile or raw score
+writing score - number (0-100) could be percentile or raw score
