@@ -1,0 +1,3 @@
+My conclusions are underneath the generated plots and charts in the education.ipynb file
+
+the charts are made in the .ipynb file and no statistics were done to print results here
